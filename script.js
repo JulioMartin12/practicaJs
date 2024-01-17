@@ -1,0 +1,1 @@
+document.getElementById('demostracion').innerHTML='Este texto esta en un archivo externog JS'
